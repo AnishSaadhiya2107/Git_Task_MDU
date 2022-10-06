@@ -1,0 +1,15 @@
+#P1{
+    border:5px outset red;
+    background-color: lightblue;
+    text-align: center;
+    border-style: solid;
+
+  }
+  
+      body{
+        background-image: url(Images4.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+     
+    
